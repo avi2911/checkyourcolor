@@ -1,2 +1,2 @@
 # checkyourcolor
-Site to know the astrology color for the day.
+Site to know the astrology color of you.
